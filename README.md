@@ -49,7 +49,7 @@ The results demonstrate that **BERT (Fine-Tuned)** generally outperforms traditi
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/USERNAME_ANDA/Cyber-Threat-Detection.git](https://github.com/USERNAME_ANDA/Cyber-Threat-Detection.git)
+    git clone [https://github.com/USERNAME_ANDA/Cyber-Threat-Detection.git](https://github.com/daffanka/Cyber-Threat-Detection-NLP)
     cd Cyber-Threat-Detection
     ```
 
