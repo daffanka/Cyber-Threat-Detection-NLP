@@ -59,7 +59,7 @@ The results demonstrate that **BERT (Fine-Tuned)** generally outperforms traditi
     ```
 
 3.  **Run the Notebook**
-    Open `notebooks/Threat_Detection_BERT_vs_ML.ipynb` in Jupyter Notebook or Google Colab.
+    Open `notebooks/Threat_Detection.ipynb` in Jupyter Notebook or Google Colab.
 
 ## 🤝 Acknowledgments
 * **Dataset**: Private Cyber Threat Intelligence Dataset (Splited Train/Val/Test).
