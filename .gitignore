@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files (Opsional: jika file csv > 100MB, github akan menolak. Jika kecil, boleh dihapus baris ini)
+# data/*.csv
+
+# IDE settings
+.vscode/
+.idea/
